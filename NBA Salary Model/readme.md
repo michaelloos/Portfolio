@@ -1,6 +1,6 @@
 # NBA Salary Model
 
-Analysis using R studio to generate a linear regression model to predict an NBA player's salary based on player characteristics and statistics. 
+R script containing analysis to generate a multiple linear regression model to predict an NBA player's salary based on player characteristics and statistics. 
 
 # Analysis
 
