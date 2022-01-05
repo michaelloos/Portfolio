@@ -3,28 +3,29 @@
 A simple Python program using openweathermap.org API to generate current weather conditions and forecast for a zip code or city.
 
 # How it works
-User enters a zip code or city.
+User enters a zip code or city. Entry is validated and converted into query string.
 
-Program retrieves current conditions
+Query string is passed to current_cond() which requests JSON data from http://api.openweathermap.org/data/2.5/weather? of current conditions and converts to user friendly display. 
 
-Program retrieves forecast
-The values range from 0-255 for each channel.
+Query string is passed to forecast() which requests JSON data from http://api.openweathermap.org/data/2.5/forecast? of 5 day/3 hour forecast and converts to user friendly display. 
 
-The representation is (R,G,B)
+User is prompted to enter a new zip code or city or quit.
 
 # Libraries
 * requests
 * json
 * datetime
 
-* [Library name](https://example.com): Version 1234
+# openweathermap.org Documentation
+Current weather: https://openweathermap.org/current
 
-# Examples
+Forecast: https://openweathermap.org/forecast5
 
-| Color | RGB           |
-| ----- | ----          |
-| Black | (0,0,0)       |
-| White | (255,255,255) |
-| Red   | (255,0,0)     |
-| Green | (0,255,0)     |
-| Blue  | (0,0,255)     |
+# Example
+
+![image](https://user-images.githubusercontent.com/58178574/148156181-58be0ed7-277f-4328-a180-da159ca5f2eb.png)
+
+## Author
+
+Michael Loos
+loos.mickey@gmail.com
