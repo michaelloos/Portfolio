@@ -1,8 +1,8 @@
-# NBA Salary Model
+## NBA Salary Model
 
 R script containing analysis to generate a multiple linear regression model to predict an NBA player's salary based on player characteristics and statistics. 
 
-# Analysis
+## Analysis
 
 * Rookies and unsiged free agents were removed from data set
 * Clean variables (For example, split FGM-FGA into two variables: FGM and FGA) 
@@ -12,11 +12,11 @@ R script containing analysis to generate a multiple linear regression model to p
 * Multiple Linear Regression
 * Model Diagnostics
 
-# Data
+## Data
 
 Data was obtained from Kaggle
 
-# Libraries
+## Libraries
 * dplyr
 * ggplot2
 * QuantPsyc
@@ -26,7 +26,7 @@ Data was obtained from Kaggle
 * corrplot
 * class
 
-# Example
+## Example
 
 
 ## Author
