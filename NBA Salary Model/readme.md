@@ -26,9 +26,6 @@ Data was obtained from Kaggle
 * corrplot
 * class
 
-## Example
-
-
 ## Author
 
 Michael Loos
