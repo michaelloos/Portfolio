@@ -1,6 +1,6 @@
 # Image Classification-Big Ten Teams
 
-Project using Python to scrape images and create a neural network to predict which Big Ten team an image contains. 
+Project using Python to gather images and classify college football related images by team within the Big Ten Conference. Convolutional Neural Networks are used to analyze the images.
 
 ## Libraries
 * selenium
