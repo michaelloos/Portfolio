@@ -1,6 +1,6 @@
 # Salary Prediction
 
-Project using Python and R to predict salaries within the Data Science industry based on roles and qualifications.
+Project using Python and R to analyze a Kaggle survey data set to derive insights and predict salaries for positions within the Data Science industry based on role descriptions and survey respondant characteristics.
 
 ## Libraries
 * Python
