@@ -9,16 +9,16 @@ Project using Python and multiple data sources to analyze the 2007 college footb
 * Database: Analysis using database created from CSV, HTML, and API data
 
 ## Libraries
--pandas
--numpy
--matplotlib
--requests
--json
--scipy
--sqlite3
+* pandas
+* numpy
+* matplotlib
+* requests
+* json
+* scipy
+* sqlite3
 
 ## Data
-- API Data: 'https://api.collegefootballdata.com/games/media?year=2007'
+* API Data: 'https://api.collegefootballdata.com/games/media?year=2007'
 
 
 ## Example
