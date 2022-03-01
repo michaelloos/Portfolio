@@ -1,6 +1,6 @@
 # API Weather Forecast 
 
-A simple Python program using openweathermap.org API to generate current weather conditions and forecast for a zip code or city.
+A simple Python program using openweathermap.org API to generate current weather conditions and forecast for a zip code or city. Users are prompted for a zip code or city. A query string is created and passed to request JSON data for current conditions and the 5 day/3 hour forecast in a user friendly display.
 
 ## How it works
 User enters a zip code or city. Entry is validated and converted into query string.
