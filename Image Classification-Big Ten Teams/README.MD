@@ -10,6 +10,12 @@ Project using Python to scrape images and create a neural network to predict whi
 * os
 * requests
 * time
+* numpy
+* sklearn
+* keras
+* matplotlib
+* shutil 
+* pathlib
 
 ## Programs
 * Image Scraper.py: Uses selenium web driver to save images of each team to their own folder
