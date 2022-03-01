@@ -1,6 +1,6 @@
 # CFB Betting Model
 
-Project using Python to wrangle data and R to create and assess different models for predicting the outcomes of college football games against the spread.
+Project using Python to gather, clean, and structure data from the 2019 college football season and model a neural network. R was used for Exploratory Data Analysis and to create different logistic and linear models to predict the outcomes of games, straight up and against the spread.
 
 ## Libraries
 * Python
