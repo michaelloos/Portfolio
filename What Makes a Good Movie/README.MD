@@ -1,6 +1,6 @@
 # What Makes a Good Movie
 
-Project using Python for Exploratory Data Analysis on IDMb data to determine key characterisitcs of a highly rated movie. 
+Exploratory Data Analysis done to determine what attributes make a good movie. Data contains 81,273 movies from IMDB. Analysis focuses on Year, Duration, Average Vote, Votes, Budget, US Gross Income, and Meta Score.
 
 ## Libraries
 * pandas
