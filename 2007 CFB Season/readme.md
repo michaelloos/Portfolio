@@ -23,9 +23,6 @@ Project using Python and multiple data sources to analyze the 2007 college footb
 * [API](https://api.collegefootballdata.com/games/media?year=2007)
 
 
-## Example
-
-
 ## Author
 
 Michael Loos
