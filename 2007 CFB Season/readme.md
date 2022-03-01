@@ -1,6 +1,6 @@
 # 2007 CFB Season
 
-Project using Python and multiple data sources to analyze the 2007 college football season.
+The 2007 college football season was filled with upsets and nontraditional teams high in the rankings. This project uses Python and multiple data sources to wrangle and analyze data to find insights on the 2007 season. Data sources include a CSV file, website/HTML, and accessing data through an API.
 
 ## Programs
 * CSV Analysis: Analysis using CSV file
