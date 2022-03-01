@@ -3,8 +3,12 @@
 Project using Python to wrangle data and R to create and assess different models for predicting the outcomes of college football games against the spread.
 
 ## Libraries
+* Python
+  * Pandas
+  * Numpy 
 
 ## Data
+* [Data Sets](https://github.com/michaelloos/Portfolio/tree/main/CFB%20Betting%20Model/Data)
 
 
 ## Author
