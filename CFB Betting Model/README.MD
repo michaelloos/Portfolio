@@ -21,7 +21,7 @@ Project using Python to wrangle data and R to create and assess different models
 * [Data Sets](https://github.com/michaelloos/Portfolio/tree/main/CFB%20Betting%20Model/Data)
 
 ## Methods
-Linear Regression, Logistic Regression, and Neural Networks were created to predict winners of each game and winners against the spread.
+Linear Regression, Logistic Regression, and Neural Network models were created to predict winners of each game and winners against the spread.
 
 ## Results
 * Logistic Regression: 64.8% accuracy of game winner.
