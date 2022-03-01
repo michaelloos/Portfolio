@@ -18,6 +18,8 @@ Project using Python and multiple data sources to analyze the 2007 college footb
 * sqlite3
 
 ## Data
+* [2007 season.csv](https://github.com/michaelloos/Portfolio/blob/main/2007%20CFB%20Season/2007%20season.csv)
+* 
 * API Data: 'https://api.collegefootballdata.com/games/media?year=2007'
 
 
