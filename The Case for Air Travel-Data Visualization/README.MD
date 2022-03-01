@@ -1,11 +1,18 @@
 # The Case for Air Travel
 
-This project contains several different methods of data visualization in attempt to pursuad an audience that air travel is safe.
+This project contains several different methods of data visualization in attempt to pursuade an audience that air travel is safe.
 
-## Libraries
+## Tools
+* R
+* Tableau
+
+## R Libraries
+* pacman
+* stringr
+* writexl
 
 ## Data
-
+Data regarding aviation statistics from various sources.  
 
 ## Author
 
