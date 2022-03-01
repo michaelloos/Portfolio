@@ -14,6 +14,13 @@ This project contains several different methods of data visualization in attempt
 ## Data
 Data regarding aviation statistics from various sources.  
 
+## Analysis/Visuals
+* Blog
+* Dashboard
+* Executive Summary Presentation
+* Infographic
+* Public Presentation
+
 ## Author
 
 Michael Loos
