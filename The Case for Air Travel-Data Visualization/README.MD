@@ -1,6 +1,6 @@
 # The Case for Air Travel
 
-This project contains several different methods of data visualization in attempt to pursuade an audience that air travel is safe.
+This project contains several different types of projects and visualizations to persuade different audiences that air travel is safe. Visualization mediums include a dashboard, an executive summary, an infographic, a blog post, and a public presentation. Visuals were created using Tableau.
 
 ## Tools
 * R
