@@ -19,6 +19,7 @@ This project uses Python to create a model to rank college football teams based 
 
 
 ## Data
+* 2019 FBS season
 * [collegefootballdata.com API](api.collegefootballdata.com)
 
 ## Methods
